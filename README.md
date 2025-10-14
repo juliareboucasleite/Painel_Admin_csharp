@@ -2,7 +2,38 @@
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D4.svg?style=for-the-badge&logo=windows&logoColor=white)
 
-Um painel administrativo completo desenvolvido em C# com Windows Forms para gestão de produtos, utilizadores e notificações.
+Um painel administrativo completo desenvolvido em C# com Windows Forms para gestão de produtos, utilizadores e notificações do sistema PromoPing.
+
+## Screenshots
+
+### Autenticação
+![Login](images/Login.png)
+![Login com Olho](images/Login_Olho.png)
+![Registrar](images/Registrar.png)
+
+### Dashboard Principal
+![Dashboard](images/Dashboard.png)
+
+### Gestão de Produtos
+![Gestão de Produtos](images/Gestao_Produtos.png)
+![Adicionar Produto](images/adicionar-produto.png)
+![Editar Produtos](images/editar-produtos.png)
+
+### Gestão de Utilizadores
+![Gestão de Utilizadores](images/Gestao_utilizadores.png)
+![Adicionar Utilizador](images/adicionar-utilizador.png)
+![Editar Perfil](images/editar-perfil-utilizador.png)
+![Detalhes do Perfil](images/detalhes-perfil.png)
+
+### Gestão de Perfis Admin
+![Gestão de Perfis Admin](images/Gestao_Perfis_Admin.png)
+
+### Notificações e Preferências
+![Gestão de Notificações](images/gestao-notificacoes.png)
+![Editar Preferências](images/editar-preferencia.png)
+
+### Suporte
+![Suporte](images/suporte.png)
 
 ## Funcionalidades
 
@@ -108,11 +139,7 @@ O sistema utiliza as seguintes tabelas principais:
 
 ## Interface
 
-O painel possui uma interface moderna e intuitiva com:
-Dashboard com métricas em tempo real
-Menu de navegação organizado
-Formulários responsivos
-Design Material Design
+O painel possui uma interface moderna e intuitiva com dashboard em tempo real, menu de navegação organizado, formulários responsivos e design Material Design. Veja as screenshots acima para uma visão completa das funcionalidades.
 
 ## Configuração
 

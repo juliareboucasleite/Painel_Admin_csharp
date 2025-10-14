@@ -131,10 +131,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 **Julia Rebouças Leite**
 - GitHub: [@juliareboucasleite](https://github.com/juliareboucasleite)
 
----
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=footer"/>
-
-
-<p align="center">Obrigado pela visita!</p>
 
 Se este projeto foi útil para você, considere dar uma estrela!
